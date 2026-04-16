@@ -1,5 +1,7 @@
 # MCP captcha solver for AI agents
 
+![2cap_mcp](image/2cap_mcp.svg)
+
 Minimal local demo project for showing the architecture:
 
 `Agent -> browser/captcha MCP tools -> Selenium helpers -> structured result`
